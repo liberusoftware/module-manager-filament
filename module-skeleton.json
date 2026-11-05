@@ -1,0 +1,25 @@
+{
+  "repository": "module-manager-filament",
+  "capabilityKey": "liberusoftware/module-manager",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/manager-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/boilerplate/nextjs/module-manager.md",
+  "presentationPlan": "projects/boilerplate/filament/module-manager.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting",
+    "automation",
+    "billing",
+    "boilerplate",
+    "browser-game",
+    "control-panel",
+    "crm",
+    "genealogy",
+    "maintenance",
+    "real-estate",
+    "social-network"
+  ]
+}

@@ -1,6 +1,6 @@
 {
-  "name": "liberusoftware/boilerplate-filament",
-  "description": "Liberu reusable Filament presentation module foundation",
+  "name": "liberusoftware/manager-filament",
+  "description": "Module Manager Filament presentation module skeleton",
   "type": "liberu-module",
   "license": "MIT",
   "require": {
@@ -9,15 +9,15 @@
   },
   "autoload": {
     "psr-4": {
-      "Liberu\\Presentation\\BoilerplateFilament\\": "src/"
+      "Liberu\\Presentation\\Capabilitye2b10e1d5c65\\": "src/"
     }
   },
   "scripts": {
-    "check": "@php -l src/BoilerplatePlugin.php"
+    "check": "@php -l src/CapabilityPlugin.php"
   },
   "extra": {
     "liberu": {
-      "name": "boilerplate-filament"
+      "name": "manager-filament"
     }
   }
 }
